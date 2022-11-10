@@ -1,9 +1,9 @@
-package com.hcy.springcloud.service.impl;
+package com.hcy.springcloud7002.service.impl;
 
 
-import com.hcy.springcloud.dao.PaymentDao;
+import com.hcy.springcloud7002.dao.PaymentDao;
 import com.hcy.springcloud.entities.Payment;
-import com.hcy.springcloud.service.PaymentService;
+import com.hcy.springcloud7002.service.PaymentService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

@@ -1,4 +1,4 @@
-package com.hcy.springcloud.controller;
+package springcloud.controller;
 
 import com.hcy.springcloud.entities.CommonResult;
 import com.hcy.springcloud.entities.Payment;
@@ -16,7 +16,7 @@ import javax.annotation.Resource;
 @RequestMapping("consumer")
 public class OrderController {
 
-    public static final String URL="http://localhost:8001";
+    public static final String URL="http://localhost:7002";
 
     @Resource
     private RestTemplate restTemplate;

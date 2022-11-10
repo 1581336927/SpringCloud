@@ -1,9 +1,9 @@
-package com.hcy.springcloud.contorller;
+package com.hcy.springcloud8001.contorller;
 
 
 import com.hcy.springcloud.entities.CommonResult;
 import com.hcy.springcloud.entities.Payment;
-import com.hcy.springcloud.service.PaymentService;
+import com.hcy.springcloud8001.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 

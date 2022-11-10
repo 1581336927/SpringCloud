@@ -1,4 +1,4 @@
-package com.hcy.springcloud;
+package com.hcy.springcloud7002;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

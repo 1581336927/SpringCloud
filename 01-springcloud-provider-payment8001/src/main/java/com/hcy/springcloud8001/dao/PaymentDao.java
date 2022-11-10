@@ -1,4 +1,4 @@
-package com.hcy.springcloud.dao;
+package com.hcy.springcloud8001.dao;
 
 import com.hcy.springcloud.entities.Payment;
 import org.apache.ibatis.annotations.Mapper;
